@@ -75,10 +75,7 @@ import matplotlib.pyplot as plt
 # Load dataset
 df = pd.read_csv('population_data.csv')
 
-# Bar chart: Number of countries per continent
-df.groupby('Continent')['Country/Territory'].count().plot(kind='bar')
-plt.title("Number of Countries per Continent")
-plt.show()
+
 
 🏗 Project Structure
 population-distribution-visualization/
