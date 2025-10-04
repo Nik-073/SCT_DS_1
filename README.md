@@ -32,7 +32,7 @@ Capital
 
 Population
 
-Age / Gender (if available)
+Age / Gender 
 
 Note: Dataset should be cleaned and missing values handled before visualization.
 
